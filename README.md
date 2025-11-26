@@ -17,7 +17,8 @@ Screenshots
 ![Home screen](doc/L11_1.jpg)
 
 ![Edit screen](doc/L11_2.jpg)
-[
+
 
 Demo
+
 ![Demo GIF](doc/L11.gif)
